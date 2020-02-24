@@ -1,5 +1,7 @@
-# Chicago-Crime-Analysis
+# Chicago-Crime-Analysis 
 ---
+You have a look at the app [here](https://shilpabhat.shinyapps.io/ChicagoCrime/)
+
 ## Table of contents
 * [Data Description](#data-description)
 * [What is in the App](#what-is-in-the-app)
@@ -20,16 +22,16 @@ about the crime
 
 Frequency of crime by month and crime type
 
-![Screenshot](/img/Screen%20Shot%202020-02-22%20at%208.41.27%20PM.png)
+![Screenshot](/img/Screenshot1.JPG)
 
 Frequency of crime by the location of the crime
 
-![Screenshot]()
+![Screenshot](/img/Screenshot2.JPG)
 
 A heatmap using the type of crime and the hour of the day when the crime was committed
 
-![Screenshot]()
+![Screenshot](/img/Screenshot3.JPG)
 
 Crime Map
 
-![Screenshot]()
+![Screenshot](/img/Screenshot4.jpg)

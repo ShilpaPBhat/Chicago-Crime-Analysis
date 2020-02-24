@@ -10,6 +10,8 @@ You have a look at the app [here](https://shilpabhat.shinyapps.io/ChicagoCrime/)
 ## Data Description
 Chicago Crime Data from https://data.cityofchicago.org/PublicSafety/Crimes-2001-to-present/ijzp-q8t2 provide reported incidents of crime that occurred in the City of Chicago. These data are available from 2001 through the present. I have used 2018 data for analysis
 
+Data used for the app and the code can be found [here](https://github.com/ShilpaPBhat/Chicago-Crime-Analysis/tree/master/data_code)
+
 ## What is in the App
 The following have been covered in the app.
 * Frequency of crime by month and crime type
